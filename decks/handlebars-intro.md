@@ -1,4 +1,4 @@
-# Javascript Templating
+# Javascript Templating With Handlebars
 ---
 
 ### Javascript Templating
@@ -9,7 +9,7 @@
   - Mixing Logic with the templates can get hairy but how much logic is too much?
 <div><img class='slide center noli' src="img/decks/handlebars/handlebars_logo.png" /></div>
 ---
-### Handlebars
+### Why did I choose Handlebars?
   - Check out <a href='http://tryhandlebarsjs.com' target='_BLANK'>http://tryhandlebarsjs.com</a> To see it in action
   - There's a handful of frameworks (sammy.js, SproutCore, Ember,...) have handlebars support built in
   - Mustache Templates are compatible inherently since Handlebars is basically an extension to Mustache
