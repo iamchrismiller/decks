@@ -1,4 +1,4 @@
-My Personal Slide Templates - Forked From Javascriptu
+My Personal Slide Decks - Forked From Javascriptu
 ===========================
 
 Decks are written in a flavor of markdown in /decks/
