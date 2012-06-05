@@ -32,7 +32,7 @@
 ---
 ### How does that compiling step work?
   - Well in the internals of the library Handlebars takes the template string and 'compiles' it into a Handlebars template function
-  - You can then render the template by passing a data object (context) into this function.
+  - You can then render the template by passing a data object (context) into the compiled function.
   - Caching this template is key, You can re-render this template at any time without re-compiling it again.
 
 ---
