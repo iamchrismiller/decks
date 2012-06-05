@@ -1,8 +1,8 @@
 $(document).ready(function() {
   var data = {
     mustaches : [
-      { fname : 'hulk', lname : 'hogan',       img : "/img/decks/handlebars/stache2.jpg"},
-      { fname : 'the',  lname : 'non-escaper', img : "/img/decks/handlebars/stache.jpg"}
+      { fname : 'hulk', lname : 'hogan',       img : "img/decks/handlebars/stache2.jpg"},
+      { fname : 'the',  lname : 'non-escaper', img : "img/decks/handlebars/stache.jpg"}
     ]
   };
   Handlebars.registerHelper('fullName', function () {

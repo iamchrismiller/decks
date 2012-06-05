@@ -414,3 +414,29 @@ pre.min {
     height:120px;
   }
 }
+
+
+ul {
+  .center {
+    list-style-type: none;
+  }
+  .vcenter li {
+    float:left;
+    margin:14px;
+    list-style-type: none;
+  }
+  #social {
+    position:absolute;
+    top:60%;
+  }
+}
+
+h2.intro {
+  position: absolute;
+  top: 49% !important;
+  font-size: 26px !important;
+  text-align: center;
+  width: 100%;
+  color: #CCC;
+}
+
