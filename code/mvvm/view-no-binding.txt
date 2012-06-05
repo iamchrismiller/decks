@@ -1,2 +1,0 @@
-<p>First Name: <strong>Unknown</strong></p>
-<p>Last Name: <strong>Unknown</strong></p>

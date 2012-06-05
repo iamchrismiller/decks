@@ -1,5 +1,0 @@
-<div data-bind="template: {name: 'mytmpl', foreach: someData}"></div>
-
-<script type="text/html" id="mytmpl">
-	<p data-bind="text: someName"></p>
-</script>

@@ -1,4 +1,4 @@
-JavascriptU Slide Templates
+My Personal Slide Templates - Forked From Javascriptu
 ===========================
 
 Decks are written in a flavor of markdown in /decks/
@@ -24,7 +24,7 @@ Via the query string you can specify the following parameters in order to genera
 * cssDir
   * the css directory where themes are found default="./css"
 * theme
-  * the css file (minus the extension) default="javascriptU" (try 'web2.0')
+  * the css file (minus the extension) default="web2.0"
 * ext
   * the extension to use for deck pieces default=".md"
 * decks

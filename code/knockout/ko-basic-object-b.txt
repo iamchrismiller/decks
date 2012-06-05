@@ -1,3 +1,0 @@
-<input data-bind="value: lastName, valueUpdate: 'keyup'" />
-<span data-bind="text: firstName"></span>
-<span data-bind="text: lastName"></span>

@@ -48,7 +48,7 @@ $(function(){
   $('.deck-container').loadDeck({
     deckDir : params.get('deckDir') || './decks/',
     cssDir  : params.get('cssDir')  || './css/',
-    theme   : params.get('theme')   || 'javascriptU',
+    theme   : params.get('theme')   || 'web2.0',
     ext     : params.get('ext') || '.md',
     decks   : params.get('decks')   || '',
     intro   : params.get('intro')   || true,

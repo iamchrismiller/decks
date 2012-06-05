@@ -1,3 +1,0 @@
-<div data-bind="css: {mycss: firstName() }"></div>
-<div data-bind="css: {mycss: firstName(), mycss2: lastName() }"></div>
-<div data-bind="css: {'my-css': firstName() }"></div>

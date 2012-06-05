@@ -1,3 +1,0 @@
-<div data-bind="with: someData">
-	<span data-bind="text: someBoundText"></span>
-</div>

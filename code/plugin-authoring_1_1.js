@@ -1,3 +1,0 @@
-function() {
-	// some neat code here...
-}();

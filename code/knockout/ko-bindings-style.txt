@@ -1,3 +1,0 @@
-<div data-bind="style: {backgroundColor: firstName() == "McGuyver" ? 'red' : 'blue' }"></div>
-<div data-bind="style: {backgroundColor: firstName() == "McGuyver" ? 'red' : 'blue' }, 
-	fontWeight: lastName() ? 'bold' : 'normal' }"></div>

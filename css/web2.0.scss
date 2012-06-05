@@ -397,3 +397,20 @@ pre.min {
   background-color: #d3d3d3 ;
   color:#000 !important;
 }
+
+.noli {
+  list-style-type: none;
+}
+
+#stache-container {
+  margin: auto;
+  width: 415px;
+
+  div {
+    float:left;
+  }
+  img {
+    width:120px;
+    height:120px;
+  }
+}

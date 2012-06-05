@@ -1,3 +1,0 @@
-<div data-bind="if: obExists">
-	<span data-bind="text: obExists"></span>
-</div>
