@@ -10,7 +10,7 @@
 <div><img class='slide center noli' src="img/decks/handlebars/handlebars_logo.png" /></div>
 ---
 ### Handlebars
-  - Check out http://tryhandlebarsjs.com To see it in action
+  - Check out <a href='http://tryhandlebarsjs.com' target='_BLANK'>http://tryhandlebarsjs.com</a> To see it in action
   - There's a handful of frameworks (sammy.js, SproutCore, Ember,...) have handlebars support built in
   - Mustache Templates are compatible inherently since Handlebars is basically an extension to Mustache
   - Handlebars is simple, its just HTML with embedded handlebar expressions
