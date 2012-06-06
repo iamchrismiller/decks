@@ -8,15 +8,16 @@
   - Logic vs Logic-less?
   - Mixing Logic with the templates can get hairy but how much logic is too much?
 <div><img class='slide center noli' src="img/decks/handlebars/handlebars_logo.png" /></div>
+  - Check out <a href='http://tryhandlebarsjs.com' target='_BLANK'>http://tryhandlebarsjs.com</a> To see it in action
+
 ---
 ### Why did I choose Handlebars?
-  - First, Check out <a href='http://tryhandlebarsjs.com' target='_BLANK'>http://tryhandlebarsjs.com</a> To see it in action
-  - There's a handful of frameworks (sammy.js, SproutCore, Ember,...) have handlebars support built in
-  - Mustache Templates are compatible inherently since Handlebars is basically an extension to Mustache
   - Handlebars is simple, its just HTML with embedded handlebar expressions
   - If it weren't for Block expressions and helpers Handlebars would be a completely logic-less templating language that keeps the presentation and the logic separate how it should be.
-  - Oh and it's Compiled rather than interpreted.
+  - There's a handful of frameworks (sammy.js, SproutCore, Ember,...) have handlebars support built in
   - It supports Simple and Nested Paths allowing you to look below the context
+  - Mustache Templates are compatible inherently since Handlebars is basically an extension to Mustache
+  - Oh and it's Compiled rather than interpreted.
 
 ---
 ### Handlebars Basics
